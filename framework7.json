@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/brandongines/Desktop/code/frame-test",
+  "type": [
+    "web"
+  ],
+  "name": "Frame7",
+  "framework": "react",
+  "template": "split-view",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
